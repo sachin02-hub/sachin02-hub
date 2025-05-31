@@ -24,9 +24,9 @@ reducing inference time from 2 hours to 3 minutes.
 functions, predicting temperatures within ±6°C.
 
 📚 **Publications**  
-- [IEEE Access](https://ieeexplore.ieee.org/) – Robust Hardware Fingerprinting with AI  
-- [Springer](https://link.springer.com/) – Deep Residual Networks: Depth vs Accuracy  
-- Patent Filed: AI-Driven MFA with Hardware Fingerprints
+- [IEEE Access](https://ieeexplore.ieee.org/document/11003943) – Robust Hardware Fingerprinting with AI  
+- [Springer] – Deep Residual Networks: Depth vs Accuracy  
+- Patent Filed: AI-Driven MultiFactor Authentication System with Hardware Fingerprints
 
 ---
 
@@ -39,7 +39,7 @@ functions, predicting temperatures within ±6°C.
 ### 📌 Featured Projects
 
 - 🧊 **Thermal Image Correction**: Autoencoder-based pipeline to fix mixed pixels  
-- 🔐 **Fingerprint Sensor Classifier**: Mobilenet model for secure MFA  
+- 🔐 **Hardware Fingerprint Source Identification**: Mobilenet model for secure MFA  
 - 📈 **ResNet Depth Analysis**: Studying layer-depth tradeoffs in constrained models  
 - ⚙️ **CUDA Optimization**: PyTorch inference pipelines for high-speed forecasting
 
@@ -49,6 +49,5 @@ functions, predicting temperatures within ±6°C.
 
 - 📧 Email: sachinsmanoj02@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sachinsm2002)  
-- 💻 [Portfolio Website](#) *(optional)*
 
 Thanks for visiting! Let’s build something awesome 🚀
