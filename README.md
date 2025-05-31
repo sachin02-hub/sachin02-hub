@@ -16,7 +16,12 @@ Welcome to my GitHub! I'm an AI researcher and computer science undergraduate pa
 ### 🧪 Current Work
 
 🚀 **Rolls-Royce (AI Intern)**  
-Optimizing deep learning pipelines for thermal prediction in jet engines using PyTorch + CUDA. Reduced model size from 29GB to 900MB and cut runtime from 2 hours to 3 minutes.
+- Achieved 97% efficiency gain by compressing a DNN from 29GB to 900MB with
+minimal accuracy loss.
+- Rewrote thermal prediction pipeline using CUDA-accelerated PyTorch tensors,
+reducing inference time from 2 hours to 3 minutes.
+- Developed a hybrid algorithm integrating Lumped Mass Modeling and logistic
+functions, predicting temperatures within ±6°C.
 
 📚 **Publications**  
 - [IEEE Access](https://ieeexplore.ieee.org/) – Robust Hardware Fingerprinting with AI  
