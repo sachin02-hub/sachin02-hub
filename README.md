@@ -37,7 +37,8 @@ durations and class segments to support fatigue analysis of TTC engines.
 📚 **Publications**  
 - [IEEE Access](https://ieeexplore.ieee.org/document/11003943) – Robust Hardware Fingerprinting with AI  
 - [Springer] – Deep Residual Networks: Depth vs Accuracy  
-- Patent Filed: AI-Driven MultiFactor Authentication System with Hardware Fingerprints
+- Patent Published: AI-Driven MultiFactor Authentication System with Hardware Fingerprints (Indian Patent)
+  View the Specification Documents by using Patent Application Number : 202541045327 
 
 ---
 
