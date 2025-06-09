@@ -18,14 +18,19 @@ Welcome to my GitHub! I'm an AI researcher and computer science undergraduate pa
 🚀 **Rolls-Royce (AI Intern)**  
 • Optimized a neural network, reducing model size from 29 GB to 900 MB with minimal accuracy loss, achieving a
 97% efficiency gain through architectural restructuring.
+
 • Accelerated a temperature prediction pipeline by rewriting the Python script using PyTorch tensors with CUDA
 integration, reducing execution time from 2 hours to under 3 minutes while maintaining predictive accuracy.
+
 • Engineered a time series segmentation tool in Python to classify steady vs. unsteady states, apply value-based
 binning, and compute dwell times for temporal pattern analysis.
+
 • Designed a thermal prediction algorithm integrating Lumped Mass Modeling, Physics-Based Scaling, and
 Logistic Functions to estimate node temperatures in a TTC engine.
+
 • Achieved predictive accuracy within 5–6°C, significantly reducing dependency on time-consuming simulations
 and enhancing computational efficiency in thermal modeling workflows.
+
 • Developed a Python algorithm to detect and classify jumps in transient time series data, calculating jump
 durations and class segments to support fatigue analysis of TTC engines.
 
