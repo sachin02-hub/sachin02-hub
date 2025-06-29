@@ -44,7 +44,7 @@ durations and class segments to support fatigue analysis of TTC engines.
 
 ### 🛠️ Tech Stack
 
-`Python` · `PyTorch` · `TensorFlow` · `CUDA` · `Keras` · `NumPy` · `OpenCV` · `SciPy` · `Jupyter`
+`Python` · `SQL` · `Java` · `MongoDB Atlas` · `Git` · `Jupyter` · `PyTorch` · `TensorFlow` ·  `Keras` · `NumPy` · `OpenCV` · `SciPy`
 
 ---
 
