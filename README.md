@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachin S M
 
-Welcome to my GitHub! I'm an AI researcher and computer science undergraduate passionate about building intelligent systems that bridge theory and real-world impact. My work spans Generative AI, deep learning, computer vision, and high-performance computing.
+Welcome to my GitHub! I'm an AI researcher and computer science undergraduate passionate about building intelligent systems. My work spans Generative AI, deep learning, and computer vision.
 
 ---
 
